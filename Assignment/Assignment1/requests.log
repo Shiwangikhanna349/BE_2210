@@ -1,0 +1,4 @@
+{"timestamp":"2025-01-21T04:30:42.875Z","ip":"::1","url":"/about","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T04:30:45.062Z","ip":"::1","url":"/","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T04:30:48.550Z","ip":"::1","url":"/favicon.ico","protocol":"http","method":"GET","hostname":"localhost"}
+{"timestamp":"2025-01-21T04:30:51.727Z","ip":"::1","url":"/about","protocol":"http","method":"GET","hostname":"localhost"}
