@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Management System</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <h1>Blog Management System</h1>
+            <a href="/addPost" class="add-post-btn">Add New Post</a>
+        </div>
+    </nav>
+    <main class="container">
+        <div class="posts-grid">
+            <% posts.forEach(post => { %>
+                <div class="post-card">
+                    <h2><%= post.title %></h2>
+                    <p><%= post.content.substring(0, 150) %>...</p>
+                    <div class="post-meta">
+                        <span><%= new Date(post.date).toLocaleDateString() %></span>
+                        <a href="/post/<%= post.id %>" class="read-more">Read More</a>
+                    </div>
+                </div>
+            <% }); %>
+        </div>
+    </main>
+    </body>
+</html>

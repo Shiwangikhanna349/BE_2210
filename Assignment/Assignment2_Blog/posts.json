@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to the Blog",
+    "content": "This is your first blog post. Edit or delete this post to get started.",
+    "date": "2025-02-21T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "The Future of Web Development: Trends to Watch in 2025",
+    "content": "The web development landscape is constantly evolving, and 2025 brings exciting new trends that are reshaping how we build and interact with web applications. From AI-powered development tools to enhanced user experiences, let's explore what's making waves in the industry.\\n\\nFirst, we're seeing a significant shift towards AI-assisted coding. Tools powered by large language models are helping developers write code faster and more efficiently than ever before. These AI assistants can suggest code completions, detect bugs, and even help with code refactoring.\\n\\nSecondly, Web Assembly (Wasm) is gaining more traction, enabling high-performance code execution in browsers. This technology allows developers to write components in languages like Rust or C++ and seamlessly integrate them into web applications, opening new possibilities for complex web-based applications.\\n\\nLastly, the rise of edge computing in web development is changing how we think about deployment and data processing. By running code closer to users, we can achieve better performance and reduced latency, leading to improved user experiences.\\n\\nAs we move forward, it's crucial for developers to stay updated with these trends and understand how they can leverage them in their projects. The future of web development looks bright, with innovations making it easier to create faster, more secure, and more engaging web applications.",
+    "date": "2025-02-21T14:41:09.104Z"
+  }
+]
